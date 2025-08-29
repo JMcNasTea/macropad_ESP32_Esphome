@@ -12,7 +12,7 @@ Purchase 16 MX Cherry keys for the switches
 
 Solder the GNDs together (pick one of the two pins, I chose the outter most pin of each switch).
 
-Solder a dupont cable to the remaining pin on each key switch for connecting to the Raspberry pi GPIO pins.
+Solder a dupont cable to the remaining pin on each key switch for connecting to the ESP32 GPIO pins.
 
 Print 16 Keycaps for the switches. I used the following: https://www.printables.com/model/109679-cherry-mx-low-profile-keycap
 
